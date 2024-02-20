@@ -3,6 +3,7 @@ const getTotalBalanceByGender = (users, gender) => users.filter(user => user.gen
 
 
 
+
 const clients = [
 	{
     name: "Moore Hensley",

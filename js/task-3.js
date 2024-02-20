@@ -2,8 +2,6 @@ const sortByDescendingFriendCount = (users) => users.toSorted((firstFriend, seco
 
 
 
-
-
 console.log(
   sortByDescendingFriendCount([
     {
